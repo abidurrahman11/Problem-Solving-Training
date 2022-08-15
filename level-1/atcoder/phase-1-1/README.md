@@ -4,11 +4,11 @@
 
 ### Table of Content
 
-- ***2016-2017 Beginner Contests***     `20 problems`
-- ***2018-2019 Beginner Contests***     `30 problems`
+- ***2016-2017 Beginner Contests***     `22 problems`
+- ***2018-2019 Beginner Contests***     `32 problems`
 - ***2020-2021 Beginner Contests***     `40 problems`
 
-### AtCoder - 2016-2017 Beginner Contests `20 problems`
+### AtCoder - 2016-2017 Beginner Contests `22 problems`
 
 <table>
     <tbody>
@@ -59,7 +59,7 @@
     </tbody>
 </table>
 
-### AtCoder - 2018-2019 Beginner Contests `30 problems`
+### AtCoder - 2018-2019 Beginner Contests `32 problems`
 
 <table>
     <tbody>
